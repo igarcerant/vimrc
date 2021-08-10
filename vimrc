@@ -165,7 +165,7 @@ if g:use_plug_vim
 	" see https://github.com/garbas/vim-snipmate
 	Plug 'MarcWeber/vim-addon-mw-utils'
 	Plug 'tomtom/tlib_vim'
-	Plug 'garbas/vim-snipmate'
+  " deprecate:	Plug 'garbas/vim-snipmate'
 	" templates
 	Plug 'aperezdc/vim-template'
 	" interactive development (invoked externally as «codi»)
